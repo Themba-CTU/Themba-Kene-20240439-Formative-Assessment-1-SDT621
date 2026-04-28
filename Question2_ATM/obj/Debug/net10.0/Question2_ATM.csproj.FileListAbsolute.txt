@@ -1,0 +1,14 @@
+C:\Users\KeneT\Desktop\Question2_ATM\bin\Debug\net10.0\Question2_ATM.exe
+C:\Users\KeneT\Desktop\Question2_ATM\bin\Debug\net10.0\Question2_ATM.deps.json
+C:\Users\KeneT\Desktop\Question2_ATM\bin\Debug\net10.0\Question2_ATM.runtimeconfig.json
+C:\Users\KeneT\Desktop\Question2_ATM\bin\Debug\net10.0\Question2_ATM.dll
+C:\Users\KeneT\Desktop\Question2_ATM\bin\Debug\net10.0\Question2_ATM.pdb
+C:\Users\KeneT\Desktop\Question2_ATM\obj\Debug\net10.0\Question2_ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KeneT\Desktop\Question2_ATM\obj\Debug\net10.0\Question2_ATM.AssemblyInfoInputs.cache
+C:\Users\KeneT\Desktop\Question2_ATM\obj\Debug\net10.0\Question2_ATM.AssemblyInfo.cs
+C:\Users\KeneT\Desktop\Question2_ATM\obj\Debug\net10.0\Question2_ATM.csproj.CoreCompileInputs.cache
+C:\Users\KeneT\Desktop\Question2_ATM\obj\Debug\net10.0\Question2_ATM.dll
+C:\Users\KeneT\Desktop\Question2_ATM\obj\Debug\net10.0\refint\Question2_ATM.dll
+C:\Users\KeneT\Desktop\Question2_ATM\obj\Debug\net10.0\Question2_ATM.pdb
+C:\Users\KeneT\Desktop\Question2_ATM\obj\Debug\net10.0\Question2_ATM.genruntimeconfig.cache
+C:\Users\KeneT\Desktop\Question2_ATM\obj\Debug\net10.0\ref\Question2_ATM.dll

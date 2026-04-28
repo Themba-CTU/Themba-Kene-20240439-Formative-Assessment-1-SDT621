@@ -1,0 +1,14 @@
+C:\Users\KeneT\Desktop\Question1_StudentResult\bin\Debug\net10.0\Question1_StudentResult.exe
+C:\Users\KeneT\Desktop\Question1_StudentResult\bin\Debug\net10.0\Question1_StudentResult.deps.json
+C:\Users\KeneT\Desktop\Question1_StudentResult\bin\Debug\net10.0\Question1_StudentResult.runtimeconfig.json
+C:\Users\KeneT\Desktop\Question1_StudentResult\bin\Debug\net10.0\Question1_StudentResult.dll
+C:\Users\KeneT\Desktop\Question1_StudentResult\bin\Debug\net10.0\Question1_StudentResult.pdb
+C:\Users\KeneT\Desktop\Question1_StudentResult\obj\Debug\net10.0\Question1_StudentResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KeneT\Desktop\Question1_StudentResult\obj\Debug\net10.0\Question1_StudentResult.AssemblyInfoInputs.cache
+C:\Users\KeneT\Desktop\Question1_StudentResult\obj\Debug\net10.0\Question1_StudentResult.AssemblyInfo.cs
+C:\Users\KeneT\Desktop\Question1_StudentResult\obj\Debug\net10.0\Question1_StudentResult.csproj.CoreCompileInputs.cache
+C:\Users\KeneT\Desktop\Question1_StudentResult\obj\Debug\net10.0\Question1_StudentResult.dll
+C:\Users\KeneT\Desktop\Question1_StudentResult\obj\Debug\net10.0\refint\Question1_StudentResult.dll
+C:\Users\KeneT\Desktop\Question1_StudentResult\obj\Debug\net10.0\Question1_StudentResult.pdb
+C:\Users\KeneT\Desktop\Question1_StudentResult\obj\Debug\net10.0\Question1_StudentResult.genruntimeconfig.cache
+C:\Users\KeneT\Desktop\Question1_StudentResult\obj\Debug\net10.0\ref\Question1_StudentResult.dll

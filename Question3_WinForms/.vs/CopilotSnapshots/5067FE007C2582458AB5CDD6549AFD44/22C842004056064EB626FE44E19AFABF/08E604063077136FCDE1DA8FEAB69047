@@ -1,0 +1,149 @@
+﻿namespace Question3_WinForms
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            pnlMain = new Panel();
+            lblTitle = new Label();
+            lstLanguages = new ListBox();
+            txtLanguage = new TextBox();
+            btnAdd = new Button();
+            btnRemove = new Button();
+            lblOutput = new Label();
+            pnlMain.SuspendLayout();
+            // 
+            // pnlMain
+            // 
+            pnlMain.BorderStyle = BorderStyle.FixedSingle;
+            pnlMain.Controls.Add(lblOutput);
+            pnlMain.Controls.Add(lstLanguages);
+            pnlMain.Controls.Add(btnRemove);
+            pnlMain.Controls.Add(txtLanguage);
+            pnlMain.Controls.Add(btnAdd);
+            pnlMain.Location = new Point(345, 98);
+            pnlMain.Margin = new Padding(5, 5, 5, 5);
+            pnlMain.Name = "pnlMain";
+            pnlMain.Size = new Size(649, 464);
+            pnlMain.TabIndex = 0;
+            // 
+            // lblTitle
+            // 
+            lblTitle.Dock = DockStyle.Top;
+            lblTitle.Font = new Font("Showcard Gothic", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblTitle.Location = new Point(0, 0);
+            lblTitle.Margin = new Padding(5, 0, 5, 0);
+            lblTitle.Name = "lblTitle";
+            lblTitle.Size = new Size(1324, 38);
+            lblTitle.TabIndex = 1;
+            lblTitle.Text = "My Favourite Programming Languages\r\n";
+            lblTitle.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // lstLanguages
+            // 
+            lstLanguages.FormattingEnabled = true;
+            lstLanguages.Location = new Point(169, 61);
+            lstLanguages.Name = "lstLanguages";
+            lstLanguages.Size = new Size(300, 128);
+            lstLanguages.TabIndex = 2;
+            // 
+            // txtLanguage
+            // 
+            txtLanguage.Location = new Point(132, 220);
+            txtLanguage.Name = "txtLanguage";
+            txtLanguage.Size = new Size(348, 38);
+            txtLanguage.TabIndex = 3;
+            txtLanguage.TextChanged += txtLanguage_TextChanged;
+            // 
+            // btnAdd
+            // 
+            btnAdd.BackColor = Color.DodgerBlue;
+            btnAdd.ForeColor = Color.White;
+            btnAdd.Location = new Point(22, 334);
+            btnAdd.Name = "btnAdd";
+            btnAdd.Size = new Size(256, 54);
+            btnAdd.TabIndex = 4;
+            btnAdd.Text = "Add Language\r\n";
+            btnAdd.UseVisualStyleBackColor = false;
+            // 
+            // btnRemove
+            // 
+            btnRemove.BackColor = Color.Crimson;
+            btnRemove.ForeColor = Color.White;
+            btnRemove.Location = new Point(340, 334);
+            btnRemove.Name = "btnRemove";
+            btnRemove.Size = new Size(256, 54);
+            btnRemove.TabIndex = 5;
+            btnRemove.Text = "Remove";
+            btnRemove.UseVisualStyleBackColor = false;
+            // 
+            // lblOutput
+            // 
+            lblOutput.AutoSize = true;
+            lblOutput.ForeColor = Color.Gray;
+            lblOutput.Location = new Point(289, 431);
+            lblOutput.Name = "lblOutput";
+            lblOutput.Size = new Size(26, 31);
+            lblOutput.TabIndex = 6;
+            lblOutput.Text = "``";
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(13F, 31F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.LightGray;
+            BackgroundImageLayout = ImageLayout.None;
+            ClientSize = new Size(1324, 1055);
+            Controls.Add(lblTitle);
+            Controls.Add(pnlMain);
+            Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            Margin = new Padding(5, 5, 5, 5);
+            Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Favourite Programming Languages";
+            Load += Form1_Load;
+            pnlMain.ResumeLayout(false);
+            pnlMain.PerformLayout();
+            ResumeLayout(false);
+        }
+
+        private void txtLanguage_TextChanged(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        #endregion
+
+        private Panel pnlMain;
+        private Label lblTitle;
+        private ListBox lstLanguages;
+        private TextBox txtLanguage;
+        private Button btnAdd;
+        private Button btnRemove;
+        private Label lblOutput;
+    }
+}
