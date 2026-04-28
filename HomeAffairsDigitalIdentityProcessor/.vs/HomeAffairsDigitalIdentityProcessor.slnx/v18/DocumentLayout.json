@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\KeneT\\Desktop\\HomeAffairsDigitalIdentityProcessor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{975BD260-F8C4-4B71-9312-86CFD945B5E4}|HomeAffairsDigitalIdentityProcessor\\HomeAffairsDigitalIdentityProcessor.csproj|C:\\Users\\KeneT\\Desktop\\HomeAffairsDigitalIdentityProcessor\\homeaffairsdigitalidentityprocessor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{975BD260-F8C4-4B71-9312-86CFD945B5E4}|HomeAffairsDigitalIdentityProcessor\\HomeAffairsDigitalIdentityProcessor.csproj|c:\\users\\kenet\\desktop\\homeaffairsdigitalidentityprocessor\\homeaffairsdigitalidentityprocessor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{975BD260-F8C4-4B71-9312-86CFD945B5E4}|HomeAffairsDigitalIdentityProcessor\\HomeAffairsDigitalIdentityProcessor.csproj|solutionrelative:homeaffairsdigitalidentityprocessor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{975BD260-F8C4-4B71-9312-86CFD945B5E4}|HomeAffairsDigitalIdentityProcessor\\HomeAffairsDigitalIdentityProcessor.csproj|c:\\users\\kenet\\desktop\\homeaffairsdigitalidentityprocessor\\homeaffairsdigitalidentityprocessor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{975BD260-F8C4-4B71-9312-86CFD945B5E4}|HomeAffairsDigitalIdentityProcessor\\HomeAffairsDigitalIdentityProcessor.csproj|C:\\Users\\KeneT\\Desktop\\HomeAffairsDigitalIdentityProcessor\\homeaffairsdigitalidentityprocessor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{975BD260-F8C4-4B71-9312-86CFD945B5E4}|HomeAffairsDigitalIdentityProcessor\\HomeAffairsDigitalIdentityProcessor.csproj|solutionrelative:homeaffairsdigitalidentityprocessor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,8 +58,7 @@
               "RelativeToolTip": "HomeAffairsDigitalIdentityProcessor\\Form1.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAewBUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T19:43:09.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T19:43:09.152Z"
             }
           ]
         }

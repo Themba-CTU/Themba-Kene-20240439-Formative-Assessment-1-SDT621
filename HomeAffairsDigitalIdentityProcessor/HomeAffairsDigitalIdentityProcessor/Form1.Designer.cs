@@ -165,6 +165,7 @@
             this.Controls.Add(this.lblID);
             this.Controls.Add(this.lblName);
             this.Controls.Add(this.lblTitle);
+            this.MaximizeBox = false;
             this.Name = "HomeAffairsDigitalIdentityProcessor";
             this.Text = "HomeAffairsDigitalIdentityProcessor";
             this.Load += new System.EventHandler(this.HomeAffairsDigitalIdentityProcessor_Load);

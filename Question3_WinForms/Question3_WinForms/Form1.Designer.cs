@@ -125,6 +125,7 @@
             Controls.Add(lblTitle);
             Controls.Add(pnlMain);
             ForeColor = Color.White;
+            MaximizeBox = false;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Favourite Programming Languages";
